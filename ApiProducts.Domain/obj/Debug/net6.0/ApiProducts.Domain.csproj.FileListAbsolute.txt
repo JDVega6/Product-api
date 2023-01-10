@@ -1,0 +1,12 @@
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Domain\bin\Debug\net6.0\ApiProducts.Domain.deps.json
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Domain\bin\Debug\net6.0\ApiProducts.Domain.dll
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Domain\bin\Debug\net6.0\ApiProducts.Domain.pdb
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Domain\obj\Debug\net6.0\ApiProducts.Domain.csproj.AssemblyReference.cache
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Domain\obj\Debug\net6.0\ApiProducts.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Domain\obj\Debug\net6.0\ApiProducts.Domain.AssemblyInfoInputs.cache
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Domain\obj\Debug\net6.0\ApiProducts.Domain.AssemblyInfo.cs
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Domain\obj\Debug\net6.0\ApiProducts.Domain.csproj.CoreCompileInputs.cache
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Domain\obj\Debug\net6.0\ApiProducts.Domain.dll
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Domain\obj\Debug\net6.0\refint\ApiProducts.Domain.dll
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Domain\obj\Debug\net6.0\ApiProducts.Domain.pdb
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Domain\obj\Debug\net6.0\ref\ApiProducts.Domain.dll

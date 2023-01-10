@@ -1,0 +1,17 @@
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Data\bin\Debug\net6.0\ApiProducts.Data.deps.json
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Data\bin\Debug\net6.0\ApiProducts.Data.dll
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Data\bin\Debug\net6.0\ApiProducts.Data.pdb
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Data\bin\Debug\net6.0\ApiProducts.Domain.dll
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Data\bin\Debug\net6.0\ApiProducts.Domain.pdb
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Data\obj\Debug\net6.0\ApiProducts.Data.csproj.AssemblyReference.cache
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Data\obj\Debug\net6.0\ApiProducts.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Data\obj\Debug\net6.0\ApiProducts.Data.AssemblyInfoInputs.cache
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Data\obj\Debug\net6.0\ApiProducts.Data.AssemblyInfo.cs
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Data\obj\Debug\net6.0\ApiProducts.Data.csproj.CoreCompileInputs.cache
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Data\obj\Debug\net6.0\ApiProducts.Data.csproj.CopyComplete
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Data\obj\Debug\net6.0\ApiProducts.Data.dll
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Data\obj\Debug\net6.0\refint\ApiProducts.Data.dll
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Data\obj\Debug\net6.0\ApiProducts.Data.pdb
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Data\obj\Debug\net6.0\ref\ApiProducts.Data.dll
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Data\bin\Debug\net6.0\ApiProducts.Data.runtimeconfig.json
+C:\Users\latitude\Desktop\pevaar\Challenge\API\ApiProducts\ApiProducts.Data\obj\Debug\net6.0\ApiProducts.Data.genruntimeconfig.cache
